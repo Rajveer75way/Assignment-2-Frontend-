@@ -1,6 +1,4 @@
-Your project sounds impressive! Let's draft a README file for your Personal Finance Tracker:
 
-```markdown
 # Personal Finance Tracker
 
 **Author:** Rajveer Singh
@@ -48,11 +46,10 @@ Personal Finance Tracker is a comprehensive tool designed to help users track ex
    https://github.com/Rajveer75way/Assignment-2-Frontend-.git
    ```
 2. Install dependencies:
-   ```
+   
    cd Assignment-2-Frontend/client
    npm install
-   ```
-
+   
 ### Running the Application
 
 1. Start the frontend development server:
@@ -69,4 +66,4 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 
 ## License
 This project is licensed under the MIT License.
-```
+
